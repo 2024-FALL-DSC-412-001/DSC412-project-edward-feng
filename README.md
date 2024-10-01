@@ -1,5 +1,5 @@
 # DSC412-project
 
-Fill out this readme to point your reader in the correct direction.
+This repository contains any code and files for the DSC412 project.
 
-Every milestone after and including milestone 2 should be submitted through this repo. 
+The project proposal and plan are in DSC412_001_FA24_PR_sfeng9.pdf
