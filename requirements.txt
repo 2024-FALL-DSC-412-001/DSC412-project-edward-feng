@@ -1,0 +1,9 @@
+ipython
+nbformat
+ipykernel
+pytest
+numpy
+matplotlib
+scikit-learn
+pandas
+ipympl == 0.9.4
