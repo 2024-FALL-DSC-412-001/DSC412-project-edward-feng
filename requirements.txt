@@ -7,3 +7,6 @@ matplotlib
 scikit-learn
 pandas
 ipympl == 0.9.4
+seaborn
+sklearn
+statistics
