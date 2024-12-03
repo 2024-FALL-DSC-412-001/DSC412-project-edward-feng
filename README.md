@@ -6,7 +6,29 @@ This project will utilize ML algorithms to analyze real running data to develop 
 
 # Directory
 
+<b>./images</b>
+Folder for images of my runs.
 
+<b>./results/decision_tree_entropy</b>
+Folder for the image results of the evaluation metrics on the decision tree model.
+
+<b>./DSC412_001_FA24_PR_sfeng9.pdf</b>
+The plan and proposal of this project.
+
+<b>./DSC412_001_FA24_FR_sfeng9.pdf</b>
+The final report of this project.
+
+<b>./RunningPrediction.ipynb</b>
+The python notebook file that contains the actual data processing and model building.
+
+<b>./evaluation_fn.py</b>
+Python file for evaluation functions on the decision tree performance.
+
+<b>./requirements.txt</b>
+Text file that contains the list of libraries required to run the project.
+
+<b>./strava_data.csv</b>
+The dataset containing running information.
 
 # Data
 
